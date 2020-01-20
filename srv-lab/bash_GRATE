@@ -1,0 +1,7 @@
+#!/bin/bash
+export GRATE=$PWD
+export Grate=$GRATE
+export grate=$GRATE
+alias Grate='$GRATE/GRATE.sh'
+alias grate="Grate"
+alias GRATE="Grate"
