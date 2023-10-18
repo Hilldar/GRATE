@@ -1,0 +1,10 @@
+#source WenGraal.sh 2019_05_04_18_30_02 716392011
+#source WenGraal.sh 2019_05_04_18_31_39 716392012
+#source WenGraal.sh 2019_05_04_18_34_22 716392013
+#source WenGraal.sh 2019_05_04_18_37_07 716392014
+
+source WenGraal.sh 2019_05_05_11_10_40 716392023
+source WenGraal.sh 2019_05_05_11_11_49 716392024
+source WenGraal.sh 2019_05_05_11_12_46 716392025
+source WenGraal.sh 2019_05_05_11_13_47 716392026
+source WenGraal.sh 2019_05_05_11_14_59 716392027
